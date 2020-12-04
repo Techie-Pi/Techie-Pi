@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a lot of projects like MC2Discord o SkeleticMobs (and others that are private :p)
 - 🌱 I’m currently learning a lot of things
-- 💻 Website: **WIP**
+- 💻 Website: [techiepi.dev](https://techiepi.dev)
 - 😄 Pronouns: they/them
 
 <br />
