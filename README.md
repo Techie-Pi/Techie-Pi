@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on a lot of projects like MC2Discord o SkeleticMobs (and others that are private :p)
+- 🔭 I’m currently working on some projects
 - 🌱 I’m currently learning a lot of things
 - 💻 Website: [techiepi.dev](https://techiepi.dev)
 - 😄 Pronouns: they/them
