@@ -15,7 +15,7 @@ I'm a 15 year old girl currently in high school. I love coding, specially checki
 ![](https://img.shields.io/static/v1?label=Electron&message=Simple%20desktop%20apps&color=47848F&style=flat-square&logo=electron)
 ![](https://img.shields.io/static/v1?label=Rust&message=Web%20Servers%20and%20Discord%20Bots&color=000000&style=flat-square&logo=rust)
 ![](https://img.shields.io/static/v1?label=Java&message=Desktop%20and%20Android,%20MC%20Mods&color=007396&style=flat-square&logo=java)
-![](https://img.shields.io/static/v1?label=Kotlin&message=Android%20and%20IntelliJ%20Idea-based%20IDEs%20plugins&color=7F52FF&style=flat-square&logo=kotlin)
+![](https://img.shields.io/static/v1?label=Kotlin&message=Android%20and%20Idea-based%20IDEs%20plugins&color=7F52FF&style=flat-square&logo=kotlin)
 ![](https://img.shields.io/static/v1?label=Firebase&message=Prototyping%20and%20(some)%20prod&color=FFCA28&style=flat-square&logo=firebase)
 ![](https://img.shields.io/static/v1?label=NodeJS&message=Prototyping%20and%20(some)%20prod&color=339933&style=flat-square&logo=node.js)
 
