@@ -20,7 +20,9 @@ I'm a 15 year old girl currently in high school. I love coding, specially checki
 ![](https://img.shields.io/static/v1?label=NodeJS&message=Prototyping%20and%20(some)%20prod&color=339933&style=flat-square&logo=node.js)
 
 ### 🛒 Showcase
-- My website: [techiepi.dev](https://techiepi.dev) (_also [3.1416.info](https://3.1416.info)_)
+- My website (outdated): [techiepi.dev](https://techiepi.dev) (_also [3.1416.info](https://3.1416.info)_)
+- Node VPS Deployment (a simple action to deploy a nodejs app): [Techie-Pi/node-vps-deployment](https://github.com/Techie-Pi/node-vps-deployment)
+- Discord Bot Template (a simple js template with a command system implemented): [Techie-Pi/discord-bot-template](https://github.com/Techie-Pi/discord-bot-template)
 
 ### ☎ Let's chat!
 - [📠 E-Mail](contact@techiepi.dev)
