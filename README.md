@@ -9,11 +9,12 @@ I'm a 15 year old girl currently in high school. I love coding, specially checki
 - I've been (_trying to do_) programming for over 9 years
 
 ### 🎨 Tech Knowledge
-![](https://img.shields.io/static/v1?label=React&message=React%20Web%20and%20Native&color=61DAFB&style=flat-square&logo=react)
-![](https://img.shields.io/static/v1?label=Typescript&message=Node%20and%20React&color=3178C6&style=flat-square&logo=typescript)
-![](https://img.shields.io/static/v1?label=Rust&message=Web%20Servers%20and%20Discord%20Bots&color=000000&style=flat-square&logo=rust)
-![](https://img.shields.io/static/v1?label=Java&message=Desktop%20and%20Android,%20MC%20Mods&color=007396&style=flat-square&logo=java)
-![](https://img.shields.io/static/v1?label=Firebase&message=Prototyping%20and%20prod&color=FFCA28&style=flat-square&logo=firebase)
+![React](https://img.shields.io/badge/React-06ABD9?style=for-the-badge&logo=react&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### 🛒 Showcase
 - My website (outdated): [techiepi.dev](https://techiepi.dev) (_also [3.1416.info](https://3.1416.info)_)
