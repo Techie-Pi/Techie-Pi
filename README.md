@@ -23,6 +23,6 @@ I'm a 15 year old girl currently in high school. I love coding, specially checki
 - Discord Bot Template (a simple js template with a command system implemented): [Techie-Pi/discord-bot-template](https://github.com/Techie-Pi/discord-bot-template)
 
 ### ☎ Let's chat!
-- [📠 E-Mail](contact@techiepi.dev)
+- [📠 E-Mail](mailto:contact@techiepi.dev)
 - [🕊 Twitter](https://twitter.com/Techie_Pi)
  
