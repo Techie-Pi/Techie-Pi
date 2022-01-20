@@ -18,7 +18,7 @@ I'm a 15 year old girl currently in high school. I love coding, specially checki
 [![Java](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
 
 ### 🛒 Showcase
-- My website (_outdated_): [techiepi.dev](https://techiepi.dev) (_also [3.1416.info](https://3.1416.info)_)
+- My website (_kinda_ updated): [new.techiepi.dev](https://new.techiepi.dev) (_also [3.1416.info](https://3.1416.info)_)
 - Node VPS Deployment (a simple action to deploy a nodejs app): [Techie-Pi/node-vps-deployment](https://github.com/Techie-Pi/node-vps-deployment)
 - Discord Bot Template (a simple js template with a command system implemented): [Techie-Pi/discord-bot-template](https://github.com/Techie-Pi/discord-bot-template)
 
