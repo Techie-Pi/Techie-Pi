@@ -1,6 +1,6 @@
 ### Hi there, I'm TechiePi 👩‍🦰
 
-I'm a 15 year old girl currently in high school. I love coding, specially checking problems in our daily lifes and try to solve them using the power of computers!
+I'm a 16 year old girl currently in high school. I love coding, specially checking problems in our daily lifes and try to solve them using the power of computers!
 
 ### 🎏 About Me
 - I'm 16 years old
