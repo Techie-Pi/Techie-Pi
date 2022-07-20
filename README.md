@@ -4,22 +4,14 @@ I'm a 16 year old girl currently in high school. I love coding, specially checki
 
 ### 🎏 About Me
 - I'm 16 years old
-- I love ARGs
 - My pronouns are she/her
-- I've been (_trying to do_) programming for over 9 years
+- I've been (_trying to do_) programming for over 10 years
 
 ### 🎨 Tech Knowledge
 [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 [![React](https://img.shields.io/badge/React-06ABD9?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
 [![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://typescriptlang.org/)
-[![NodeJS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/en/)
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
-
-<!--### 🛒 Showcase
-- My website (_kinda_ updated): [new.techiepi.dev](https://new.techiepi.dev) (_also [3.1416.info](https://3.1416.info)_)
-- Node VPS Deployment (a simple action to deploy a nodejs app): [Techie-Pi/node-vps-deployment](https://github.com/Techie-Pi/node-vps-deployment)
-- Discord Bot Template (a simple js template with a command system implemented): [Techie-Pi/discord-bot-template](https://github.com/Techie-Pi/discord-bot-template)-->
 
 ### ☎ Let's chat!
 - [📠 E-Mail](mailto:contact@techiepi.dev)
