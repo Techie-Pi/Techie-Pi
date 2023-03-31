@@ -1,9 +1,9 @@
 ### Hi there, I'm TechiePi 👩‍💻
 
-I'm a 16 year old girl currently in high school. I love coding, specially trying to solve daily problems using the power of computers!
+I'm a girl currently in high school. I love coding, specially trying to solve daily problems using the power of computers!
 
 ### 🎏 About Me
-16 years old | she/her | (_been trying to do_) programming for over 10 years
+she/her | (_been trying to do_) programming for over 10 years
 
 ### 🎨 Tech Knowledge
 [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
