@@ -13,4 +13,4 @@ she/her | (_been trying to do_) programming for over 10 years
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/en/)
 
 ### ☎ Let's chat!
-[📠 E-Mail](mailto:contact@techiepi.dev) &nbsp;| [🕊 Twitter](https://twitter.com/Techie_Pi)
+[📠 E-Mail](mailto:contact@techiepi.dev)
